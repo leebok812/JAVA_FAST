@@ -6,3 +6,4 @@ ch 01. <br>
   3.정수 표현하기 - Chapter1.src.ch06.VariableTest<br>
   4.실수 표현하기 - Chapter1.src.ch07.DoubleTest<br>
   5.자료형 문자 표현하기 - Chapter1.src.ch08.CharacterTest<br>
+  6.논리형과 자료형 없이 변수 사용하기 - Chapter1.src.chch09.LocalVariableInter<br>
