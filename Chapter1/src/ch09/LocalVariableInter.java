@@ -11,6 +11,11 @@ public class LocalVariableInter {
 			System.out.println(i);
 			System.out.println(j);
 			System.out.println(str);
+			
+			var str2 = str;
+			System.out.println(str2);
+			
+			str = "hello";
 	}
 
 }
