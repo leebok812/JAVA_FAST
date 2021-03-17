@@ -9,3 +9,4 @@ ch 01. <br>
   6.논리형과 자료형 없이 변수 사용하기 - Chapter1.src.chch09.LocalVariableInter<br>
   7.변하지 않은 상수와 리터럴 + 변수의 형 변환 - Chapter1.src.ch10.ConstantTest+TypeConversionTest<br>
   8.연산자들 (기본제외 증감연산자) - Chapter1.src.ch11.OperatorTest<br>
+  9.연산자들 (관계,논리연산자) - Chapter1.src.ch12.LogicalTest<br>
