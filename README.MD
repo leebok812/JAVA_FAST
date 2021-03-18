@@ -14,3 +14,4 @@ ch 01. <br>
   11.조건문 (if문 만약에...라면) - Chapter1.src.ch14.IfElseTest<br>
   12.조건문 (if문 만약에...라면2) - Chapter1.src.ch15.IfElseTest<br>
   13.조건이 여러 개 일때 간단히 표현되는 switch-case문 - Chapter1.src.ch16.SwitchCaseTest<br>
+  14.반복문 - while문 - Chapter1.src.ch17.WhileTest<br>
