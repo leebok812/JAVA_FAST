@@ -16,4 +16,5 @@ ch 01. <br>
   13.조건이 여러 개 일때 간단히 표현되는 switch-case문 - Chapter1.src.ch16.SwitchCaseTest<br>
   14.반복문 - while문 - Chapter1.src.ch17.WhileTest<br>
   15.반복문 - DoWhile문 - Chapter1.src.ch18.DoWhileTEst<br>
-  16.반복문 - for문 - Chapter1.src.ch.ch19.ForTest<br>
+  16.반복문 - for문 - Chapter1.src.ch19.ForTest<br>
+  17.반복문 - 중첩 반복문 - Chapter1.src.ch20.NestedLoopTest<br>
