@@ -1,6 +1,6 @@
 <h1>JAVA_FAST</h1>
 
-ch 01. <br>
+<h3>ch 01.</h3> <br>
   1.자바 프로그램 만들고 실행하기 -  Chapter1.src.ch01.HelloJava<br>
   2.자료 표현하기 - Chapter1.src.ch04.BinaryTest<br>
   3.정수 표현하기 - Chapter1.src.ch06.VariableTest<br>
@@ -18,4 +18,7 @@ ch 01. <br>
   15.반복문 - DoWhile문 - Chapter1.src.ch18.DoWhileTEst<br>
   16.반복문 - for문 - Chapter1.src.ch19.ForTest<br>
   17.반복문 - 중첩 반복문 - Chapter1.src.ch20.NestedLoopTest<br>
-  18.중간에 멈추는 break문 + 무시하고 계속 진행하는 continue문 - Chapter1.src.ch21.BreakTest+ContinueTest<br>
+  18.중간에 멈추는 break문 + 무시하고 계속 진행하는 continue문 - Chapter1.src.ch21.BreakTest+ContinueTest<br><br><br>
+
+ <h3> ch 02.</h3>
+   1.생활 속에서 객체 찾아 클래스로 구현해보기 - Chapter2.src.ch01.Order+Student+UserInfo<br>
