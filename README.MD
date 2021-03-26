@@ -24,3 +24,4 @@
    1.생활 속에서 객체 찾아 클래스로 구현해보기 - Chapter2.src.ch02.Order+Student+UserInfo<br>
    2.함수와 메서드 - Chapter2.src.ch03.FunctionTest<br>
    3.객체의 속성은 멤버 변수로, 객체의 기능은 메서드로 구현한다. - Chapter2.src.ch04.Student+StudentTest<br>
+   4.인스턴스 생성과 힙 메모리 - Chapter2.src.ch04.Teacher+TeacherTest<br>

@@ -8,7 +8,7 @@ public class Student {
 	
 	
 	public void showStudentInfo() {
-		System.out.println( studentID+"학번의 이름은"+studentName+"이고, 주소는 "+ address+"입니다.");
+		System.out.println( studentID+"학번의 이름은 "+studentName+"이고, 주소는 "+ address+"입니다.");
 	}
 	
 	public String getStudentName() {

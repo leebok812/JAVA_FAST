@@ -17,6 +17,8 @@ public class StudentTest {
 		studentKim.address ="경기도 성남시";
 		
 		studentKim.showStudentInfo();
+		System.out.println(studentLee); // 두개의 주소값이 다른것을 볼 수 있음
+		System.out.println(studentKim); // 두개의 주소값이 다른것을 볼 수 있음
 	
 	}
 
