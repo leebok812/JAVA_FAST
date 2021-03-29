@@ -28,3 +28,4 @@
    5.생성사(constructor) - Chapter2.src.ch06.Student+StudentTest<br>
    6.객체 구현하기 - Chapter2.src.ch07.HumanInfo+HumanInfoTest+OrderInfo+OrderInfoTest<br>
    7.참조 자료형 변수 - Chapter2.src.ch09.Student+SubjectTest+Subject<br>
+   8.접근 제어 지시자와 정보 은닉 - Chapter2.src.ch10.BirthDay+BirthDayTest<br>
