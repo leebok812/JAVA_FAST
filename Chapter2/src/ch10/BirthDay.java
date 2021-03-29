@@ -38,11 +38,15 @@ public class BirthDay {
 	}
 	
 	public void showDate() {
-		if(isValid) {
+		if(isValid) { // isValid = true
 			System.out.println(year+ "년 "+month+"월 "+day +"일 입니다.");
 		}else {
 			System.out.println("유효 하지 않은 날짜 입니다.");
 		}
+	}
+	
+	public boolean getIsValid() { // read only
+		return isValid;
 	}
 	
 }

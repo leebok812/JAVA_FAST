@@ -25,7 +25,7 @@
    2.함수와 메서드 - Chapter2.src.ch03.FunctionTest<br>
    3.객체의 속성은 멤버 변수로, 객체의 기능은 메서드로 구현한다. - Chapter2.src.ch04.Student+StudentTest<br>
    4.인스턴스 생성과 힙 메모리 - Chapter2.src.ch04.Teacher+TeacherTest<br>
-   5.생성사(constructor) - Chapter2.src.ch06.Student+StudentTest<br>
+   5.생성자(constructor) - Chapter2.src.ch06.Student+StudentTest<br>
    6.객체 구현하기 - Chapter2.src.ch07.HumanInfo+HumanInfoTest+OrderInfo+OrderInfoTest<br>
    7.참조 자료형 변수 - Chapter2.src.ch09.Student+SubjectTest+Subject<br>
    8.접근 제어 지시자와 정보 은닉 - Chapter2.src.ch10.BirthDay+BirthDayTest<br>
