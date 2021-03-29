@@ -27,3 +27,4 @@
    4.인스턴스 생성과 힙 메모리 - Chapter2.src.ch04.Teacher+TeacherTest<br>
    5.생성사(constructor) - Chapter2.src.ch06.Student+StudentTest<br>
    6.객체 구현하기 - Chapter2.src.ch07.HumanInfo+HumanInfoTest+OrderInfo+OrderInfoTest<br>
+   7.참조 자료형 변수 - Chapter2.src.ch09.Student+SubjectTest+Subject<br>
