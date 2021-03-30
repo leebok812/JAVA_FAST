@@ -26,8 +26,9 @@ public class Person {
 		Person person = new Person();
 		person.showPerson();
 		
-		System.out.println(person);
 		
+		System.out.println(person);
+		System.out.println("================");
 		Person person2 = person.getPerson();
 		System.out.println(person2);
 		
