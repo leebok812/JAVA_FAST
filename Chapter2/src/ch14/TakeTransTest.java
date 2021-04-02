@@ -8,7 +8,7 @@ public class TakeTransTest {
 		Student studentT = new Student("TOMAS",10000);
 		
 		Bus bus100 = new Bus(100);
-		Bus bus500 = new Bus(500);
+		//Bus bus500 = new Bus(500);
 		
 		studentJ.takeBus(bus100);
 		
