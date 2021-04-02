@@ -2,6 +2,7 @@ package ch14_1;
 
 public class Person {
 	String personName;
+	
 	int money;
 
 	public Person(String personName, int money) {

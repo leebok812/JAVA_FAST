@@ -4,6 +4,7 @@ public class Taxi {
 	int taxiNumber;
 	int passengerCount;
 	int money;
+	
 	String taxiName;
 
 	public Taxi(String taxiName) {

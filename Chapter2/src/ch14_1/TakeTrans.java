@@ -7,6 +7,7 @@ public class TakeTrans {
 
 		Taxi taxi777 = new Taxi("잘 간다 운수택시");
 
+		
 		Edward.takeTaxi(taxi777);
 		Edward.showInfo();
 		taxi777.showTaxiInfo();
