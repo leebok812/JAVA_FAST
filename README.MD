@@ -33,3 +33,4 @@
    10.객체 자신을 가리키는 This - Chapter2.src.ch12.Person<br>
    11.객체 간의 협력(버스,지하철,학생) - Chapter2.src.ch14.Bus+Student+Subway+TakeTransTest<br>
    12.객체 협력 연습 - Chapter2.src.ch14_1.Person+TakeTrans+Taxi<br>
+   13.여러 인스턴스에서 공통으로 사용하는 변수를 선언하자 - Chapter2.src.ch16.Employee+EmployeeTest<br>
