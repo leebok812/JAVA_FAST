@@ -7,6 +7,7 @@ public class EmployeeTest {
 		Employee employeeLee = new Employee(); // 생성자를 따로 만들지 않아도 default 생성자를 사용가능
 		employeeLee.setEmployeeName("이순신");
 
+		//System.out.println(employeeLee.SerialNum()); // 초기값 ||노란줄 간 이유: static변수는 클래스 이름을 참조해서 써라 !
 		System.out.println(Employee.getSerialNum()); // 초기값 ||노란줄 간 이유: static변수는 클래스 이름을 참조해서 써라 !
 
 		Employee employeeKim = new Employee();
