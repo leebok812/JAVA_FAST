@@ -2,11 +2,22 @@ package ch16;
 
 public class Employee {
 
-	public static int serialNum = 1000;
+	private static int serialNum = 1000;
 
 	private int employeeId;
 	private String employeeName;
 	private String department;
+
+	
+	
+	
+	public static int getSerialNum() {
+		int i = 0;
+		
+		return serialNum;
+	}
+
+	
 
 	public Employee() {
 		serialNum++;
