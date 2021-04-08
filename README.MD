@@ -35,3 +35,4 @@
    12.객체 협력 연습 - Chapter2.src.ch14_1.Person+TakeTrans+Taxi<br>
    13.여러 인스턴스에서 공통으로 사용하는 변수를 선언하자 - Chapter2.src.ch16.Employee+EmployeeTest<br>
    14.static 메서드의 구현과 활용,변수의 유효 범위 - Chapter2.src.ch16.Employee+EmployeeTest<br>
+   15.static 응용 - 싱글톤 패턴 - Chapter2.src.ch18.Company+CompanyTest<br>
