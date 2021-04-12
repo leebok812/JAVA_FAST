@@ -37,3 +37,4 @@
    14.static 메서드의 구현과 활용,변수의 유효 범위 - Chapter2.src.ch16.Employee+EmployeeTest<br>
    15.static 응용 - 싱글톤 패턴 - Chapter2.src.ch18.Company+CompanyTest<br>
    16.싱글톤 연습 - Chapter2.src.ch18_1.Car+CarFactory+CarFactoryTest<br>
+   17.배열(Array) - Chapter2.src.ch20.ArrayTest+CharArrayTest<br>
