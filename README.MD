@@ -38,3 +38,4 @@
    15.static 응용 - 싱글톤 패턴 - Chapter2.src.ch18.Company+CompanyTest<br>
    16.싱글톤 연습 - Chapter2.src.ch18_1.Car+CarFactory+CarFactoryTest<br>
    17.배열(Array) - Chapter2.src.ch20.ArrayTest+CharArrayTest<br>
+   18.객체 배열 사용하기 - Chapter2.src.ch21.Book+BookTest+ObjectCopyTest<br>
