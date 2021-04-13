@@ -23,6 +23,7 @@ public class ObjectCopyTest {
 			copyLibrary[i].setTitle(library[i].getTitle());
 		}
 
+		
 		// System.arraycopy(library, 0, copyLibrary, 0, 5);
 
 		System.out.println("==library==");
