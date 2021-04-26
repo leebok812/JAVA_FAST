@@ -41,3 +41,4 @@
    18.객체 배열 사용하기 - Chapter2.src.ch21.Book+BookTest+ObjectCopyTest<br>
    19.2차원 배열 사용하기 - Chapter2.src.ch22.TwoDimensionTest<br>
    20.객체 배열을 구현한 클래스 ArrayList - Chapter2.src.ch23.ArrayListTest<br>
+   21. ArrayList를 활용한 간단한 성적 산출 프로그램 - Chapter2.src.ch24.Student+StudentSubjectTest+Subject<br>
