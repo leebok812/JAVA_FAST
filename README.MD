@@ -46,3 +46,4 @@
    <h3> ch 03. </h3>
    1.상속을 활용한 멤버십 클래스 구현하기 - Chapter3.src.ch02.Customer+CustomerTest+VIPCustomer
    2.상속에서 클래스 생성과정과 형변환 - Chapter3.src.ch03.Customer+CustomerTest+VIPCustomer
+   3.메서드 재정의하기 (Overriding) - Chapter3.src.ch03.Customer+CustomerTest+VIPCustomer
