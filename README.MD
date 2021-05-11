@@ -44,6 +44,7 @@
    21. ArrayList를 활용한 간단한 성적 산출 프로그램 - Chapter2.src.ch24.Student+StudentSubjectTest+Subject<br><br><br>
 
    <h3> ch 03. </h3>
-   1.상속을 활용한 멤버십 클래스 구현하기 - Chapter3.src.ch02.Customer+CustomerTest+VIPCustomer
-   2.상속에서 클래스 생성과정과 형변환 - Chapter3.src.ch03.Customer+CustomerTest+VIPCustomer
-   3.메서드 재정의하기 (Overriding) - Chapter3.src.ch03.Customer+CustomerTest+VIPCustomer
+   1.상속을 활용한 멤버십 클래스 구현하기 - Chapter3.src.ch02.Customer+CustomerTest+VIPCustomer<br>
+   2.상속에서 클래스 생성과정과 형변환 - Chapter3.src.ch03.Customer+CustomerTest+VIPCustomer<br>
+   3.메서드 재정의하기 (Overriding) - Chapter3.src.ch03.Customer+CustomerTest+VIPCustomer<br>
+   4.다형성과 다형성을 사용하는 이유 - Chapter3.src.ch06.Customer+CustomerTest+VIPCustomer+GoldCustomer+AnimalTest<br>
