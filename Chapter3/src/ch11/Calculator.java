@@ -12,6 +12,4 @@ public abstract class Calculator implements Calc { // 모두다 구현하지 않기때문에
 		return num1 - num2;
 	}
 
-
-
 }
