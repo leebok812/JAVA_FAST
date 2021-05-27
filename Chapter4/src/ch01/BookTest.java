@@ -22,16 +22,16 @@ public class BookTest {
 
 	public static void main(String[] args) {
 
-		Book book = new Book("데미안","헤르만 헤세");
+		Book book = new Book("데미안", "헤르만 헤세");
 		System.out.println(book);
 		System.out.println(book.toString());
-		
+
 		System.out.println("============");
-		
+
 		String str = new String("test");
-		System.out.println(str);//아래와 같음
+		System.out.println(str);// 아래와 같음
 		System.out.println(str.toString()); // toString을 Object에서 상속받음
-		
+
 	}
 
 }
