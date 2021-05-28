@@ -60,5 +60,6 @@
 
    <h3> ch 04. </h3>
    1.Object 클래스 - 모든 클래스의 최상위 클래스 - Chapter4.src.ch01.BookTest<br>
-   2.Object 클래스의 메서드 활용 - Chapter4.src.ch02.EqualsTest+Student
+   2.Object 클래스의 메서드 활용 - Chapter4.src.ch02.EqualsTest+Student<br>
+   3.String,StringBuilder,StringBuffer클래스,text block - Chapter4.src.ch03.StringBuilderTest+StringTest+TextBlockTest
    
