@@ -65,4 +65,5 @@
    4.자바의 유용한 클래스들 - Class 클래스 사용하기 - Chapter4.src.ch04.ClassTet+Person+StringTest<br> 
 
    <h3> ch 05. </h3>
-   1.배열(Array) 구현하기 - Chapter5.src.ch02.MyArray  <br>
+   1.배열(Array) 구현하기 - Chapter5.src.ch02.MyArray+MyArrayTest+MyObjectArray  <br>
+   2.연결리스트(LinkedList) 구현하기 - Chapter5.src.ch03.MyLinkedList+MyLinkedTest+MyListNode<br>
