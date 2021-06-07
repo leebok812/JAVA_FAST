@@ -69,4 +69,5 @@
    2.연결리스트(LinkedList) 구현하기 - Chapter5.src.ch03.MyLinkedList+MyLinkedTest+MyListNode<br>
    3.Stack 구현하기 - Chapter5.src.ch04.MyArrayStack+MyArrayStackTest<br>
    4.Queue 구현하기 - Chapter5.src.ch05.MyListQueue+MyListQueueTest<br>
-   5.무엇이든 담을 수 있는 제네릭(Generic) 프로그래밍 - Chapter5.src.ch06
+   5.무엇이든 담을 수 있는 제네릭(Generic) 프로그래밍 - Chapter5.src.ch06<br>
+   6.T extends 클래스 사용하기 - Chapter5.src.ch07<br>
