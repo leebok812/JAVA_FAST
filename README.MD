@@ -72,3 +72,4 @@
    5.무엇이든 담을 수 있는 제네릭(Generic) 프로그래밍 - Chapter5.src.ch06<br>
    6.T extends 클래스 사용하기 - Chapter5.src.ch07<br>
    7.제너릭 메서드 활용하기 - Chapter5.src.ch07<br>
+   8.순차적으로 자료를 관리하는 List 인터페이스를 구현한 클래스와 그 활용 - Chapter5.src.ch10<br>
