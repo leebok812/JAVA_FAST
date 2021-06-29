@@ -81,3 +81,5 @@
    <h3> ch 06. </h3>
    1.여러 내부클래스의 정의와 유형 - Chapter6.src.ch01<br>
    2.익명 내부 클래스의 활용 - Chapter6.src.ch01<br>
+   3.함수형 프로그래밍과 람다식 문법 - Chapter6.src.ch02<br>
+   
