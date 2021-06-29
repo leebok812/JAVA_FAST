@@ -82,4 +82,5 @@
    1.여러 내부클래스의 정의와 유형 - Chapter6.src.ch01<br>
    2.익명 내부 클래스의 활용 - Chapter6.src.ch01<br>
    3.함수형 프로그래밍과 람다식 문법 - Chapter6.src.ch02<br>
-   
+   4.함수형 인터페이스와 람다식 구현하여 사용하기 - Chapter6.src.ch03<br>
+
