@@ -83,4 +83,5 @@
    2.익명 내부 클래스의 활용 - Chapter6.src.ch01<br>
    3.함수형 프로그래밍과 람다식 문법 - Chapter6.src.ch02<br>
    4.함수형 인터페이스와 람다식 구현하여 사용하기 - Chapter6.src.ch03<br>
+   5.스트림(Stream) - Chapter6.src.ch06<br>
 
