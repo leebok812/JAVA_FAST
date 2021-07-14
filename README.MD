@@ -89,4 +89,5 @@
    8.스트림을 활용하여 패키지 여행 비용 계산하기 - Chapter6.src.ch08<br>
    9.예외처리하기와 미루기(1) - Chapter6.src.ch09<br>
    10.예외처리하기와 미루기(2) - Chapter6.src.ch09<br>
+   11.사용자 정의 예외클래스와 활용 - Chapter6.src.ch10<br>
 
