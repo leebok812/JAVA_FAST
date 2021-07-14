@@ -87,4 +87,5 @@
    6.객체지향 프로그래밍 방식과 람다식 구현 방식의 비교 - Chapter6.src.ch04<br>
    7.연산 수행에 대한 구현을 할 수 있는 reduce()메서드 - Chapter6.src.ch07<br>
    8.스트림을 활용하여 패키지 여행 비용 계산하기 - Chapter6.src.ch08<br>
+   9.예외처리하기와 미루기(1) - Chapter6.src.ch09<br>
 
