@@ -95,4 +95,5 @@
    14.바이트 단위 입출력 스트림(1) - Chapter6.src.ch14<br>
    15.바이트 단위 입출력 스트림(2) - Chapter6.src.ch14<br>
    16.문자 단위 입출력 스트림 - Chapter6.src.ch15<br>
+   17.여러가지 보조 스트림 클래스들 - Chapter6.src.ch16<br>
 
