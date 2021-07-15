@@ -90,5 +90,6 @@
    9.예외처리하기와 미루기(1) - Chapter6.src.ch09<br>
    10.예외처리하기와 미루기(2) - Chapter6.src.ch09<br>
    11.사용자 정의 예외클래스와 활용 - Chapter6.src.ch10<br>
-   12.오류의 로그를 남기기 Java.util.logging.Logger 활용 - Chapter6.src.ch11
+   12.오류의 로그를 남기기 Java.util.logging.Logger 활용 - Chapter6.src.ch11<br>
+   13.표준 입출력 스트림 - Chapter6.src.ch13<br>
 
