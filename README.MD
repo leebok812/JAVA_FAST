@@ -102,4 +102,5 @@
    21.자바에서 Thread 만들기 - Chapter6.src.ch20<br>
    22.Thread 클래스의 여러 메서드들 - Chapter6.src.ch21<br>
    23.멀티 Thread 프로그래밍에서의 동기화 - Chapter6.src.ch22<br>
+   24.wait(),notify() 메서드를 활용한 동기화 프로그래밍 - Chapter6.src.ch23
 
