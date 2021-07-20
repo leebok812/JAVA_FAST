@@ -2,7 +2,7 @@ package ch21;
 
 import java.io.IOException;
 
-public class TerminateThread extends Thread {
+public class TerminateThread extends  Thread {
 
 	private boolean flag = false;
 	int i;

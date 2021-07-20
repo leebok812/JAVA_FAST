@@ -100,6 +100,6 @@
    19.그 외 여러가지 입출력 클래스들 - Chapter6.src.ch18<br>
    20.데코레이터 패턴을 활용한 커피 머신 프로그램 - Chapter6.src.ch19<br>
    21.자바에서 Thread 만들기 - Chapter6.src.ch20<br>
-   22.Thread 프로그래밍에서의 동기화 - Chapter6.src.ch21<br>
+   22.Thread 클래스의 여러 메서드들 - Chapter6.src.ch21<br>
    23.멀티 Thread 프로그래밍에서의 동기화 - Chapter6.src.ch22<br>
 
