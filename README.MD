@@ -110,3 +110,6 @@
   2.성적 관리 프로그램(2) - Chapter7.src <br>
   3.성적 관리 프로그램(3) - Chapter7.src <br>
   4.성적 관리 프로그램(4) - Chapter7.src <br>
+
+  <h3> ch 08. </h3>
+  1.알고리즘 문제 1 ~ 3 - Chapter8.src.ch01,ch02,ch03 <br>
