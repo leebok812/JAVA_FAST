@@ -113,3 +113,5 @@
 
   <h3> ch 08. </h3>
   1.알고리즘 문제 1 ~ 3 - Chapter8.src.ch01,ch02,ch03 <br>
+  2.알고리즘 문제 4 - Chapter8.src.ch04 <br>
+  3.알고리즘 문제 5 - Chapter8.src.ch05 <br>
