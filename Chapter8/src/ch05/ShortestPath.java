@@ -47,7 +47,7 @@ class MyGraph{
                     }
                 }
             }
-            
+              
             visited[minIndex] = true;
             for(int i=0; i<count; i++){
                 if(!visited[i] && vertexMatrix[minIndex][i]!=0){
